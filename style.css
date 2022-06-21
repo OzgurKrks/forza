@@ -1,0 +1,100 @@
+.bg-dark{
+    height: 57px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    
+}
+
+
+.ul{
+    display: flex;
+    justify-content:end;
+    position: relative;
+    right: 50px;
+    
+    
+}
+ul li {
+    list-style: none;
+    
+    
+}
+ul li a{
+    text-decoration: none;
+    padding: 70px;
+    color:thistle;
+}
+.xd{
+    background-image: url(1997.jpg);
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+    color: black;
+    display: flex;
+    justify-content: center;
+
+    
+}
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 100px;
+    opacity: 0.7;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    
+}
+.font h1{
+    position: relative;
+    left: 145px;
+}
+.card{
+    width: 200px;
+}
+.card img{
+    
+   width: 200px;
+   
+}
+#div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    
+}
+.col .card{
+    position: relative;
+    left: 150px;
+    top: 100px;
+    
+}
+.ozgur{
+    height: 600px;
+    position: relative;
+    top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.9;
+}
+.mb-3{
+    
+    width: 300px;
+}
+.kara{
+    height: 200px;
+    background-color: blue;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    font-size: 40px;
+}
+.c{
+    position: relative;
+    top: 100px;
+}
